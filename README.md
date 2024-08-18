@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @VinitBhatt12
-- 🌱 I’m currently learning Web Development
+- 🌱 knowledge of HTML and CSS
+- doing leet code
 
 <!---
 VinitBhatt12/VinitBhatt12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

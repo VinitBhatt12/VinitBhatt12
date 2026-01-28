@@ -1,4 +1,4 @@
-[logo](https://github.com/VinitBhatt12/VinitBhatt12/blob/main/banner.avif)
+![logo](https://github.com/VinitBhatt12/VinitBhatt12/blob/main/banner.avif)
 
 <h1 align="center">Hi 👋, I'm Vinit BHatt</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and Cloud**
 
-- 📫 How to reach me **linkedin.com/in/vinit-bhatt-uk12/**
+- 📫 How to reach me **www.linkedin.com/in/vinit-bhatt-uk12/**
 
 - ⚡ Fun fact **I am Funny 😊**
 

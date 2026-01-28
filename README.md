@@ -1,4 +1,4 @@
-![logo](https://github.com/VinitBhatt12/VinitBhatt12/blob/main/banner.avif)
+[logo](https://github.com/VinitBhatt12/VinitBhatt12/blob/main/banner.avif)
 
 <h1 align="center">Hi 👋, I'm Vinit BHatt</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>

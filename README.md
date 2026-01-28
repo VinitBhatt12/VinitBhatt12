@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and Cloud**
 
-- 📫 How to reach me **bhattvinit788@gmail.com**
+- 📫 How to reach me **linkedin.com/in/vinit-bhatt-uk12/**
 
 - ⚡ Fun fact **I am Funny 😊**
 
